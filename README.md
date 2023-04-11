@@ -1,3 +1,3 @@
 ### Dibujo-canvas-ojo
 
-https://acrosave.github.io/Dibujo-canvas/
+https://acrosave.github.io/Draw-canvas-eyes/
